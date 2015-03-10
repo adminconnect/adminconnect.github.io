@@ -1,0 +1,6 @@
+project/node_modules
+project/dist
+project/.tmp
+project/.sass-cache
+project/bower_components
+project/test/bower_components
